@@ -1,2 +1,4 @@
-# DingTalkVirus
-Have fun！Our New Virus. Happy vacation, How can we have fewer DingTalk
+# 钉钉病毒ver.beat2
+## DingTalkVirus
+>于2020.2.28修改版本
+实际上该程序已经研制到了beat5版本，但是由于程序研制中途电脑坏了，只得自己重装，导致数据全部丢失，好在bu有该程序的副本（虽然是beat2），才得以放在这里
