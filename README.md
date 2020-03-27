@@ -8,8 +8,7 @@
 
 * 使用了钉钉b站官方的《甩钉歌》作为了程序的bgm，在病毒运行时会触发
 
-** 本家：https://www.bilibili.com/video/BV1f7411w7Lu?from=search&seid=13716475358250909583
-
-** （话说b站什么时候变成bv号了）
+    * 本家：https://www.bilibili.com/video/BV1f7411w7Lu?from=search&seid=13716475358250909583
+    * （话说b站什么时候变成bv号了）
 
 * 自我保护系统
